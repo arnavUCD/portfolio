@@ -1,0 +1,18 @@
+Pilot: Danielle has operated 3 flights for a total of 20 hours this week
+Available flights: 2
+Available hours: 40
+Attempting to schedule for 1 stop(s) 20 hours flight...
+This crew member can be scheduled
+Done scheduling Danielle
+Pilot: Dan has operated 3 flights for a total of 20 hours this week
+Available flights: 2
+Available hours: 40
+Attempting to schedule for 2 stop(s) 20 hours flight...
+This crew member should be replaced
+Done scheduling Dan
+Pilot: Derek has operated 3 flights for a total of 32.8 hours this week
+Available flights: 2
+Available hours: 27.2
+Attempting to schedule for 1 stop(s) 29.7 hours flight...
+This crew member should be replaced
+Done scheduling Derek

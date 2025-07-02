@@ -1,0 +1,24 @@
+Attendant: Anna has operated 5 flights for a total of 30 hours this week
+Available flights: 3
+Available hours: 30
+Attempting to schedule for 2 stop(s) 28 hours flight...
+This crew member can be scheduled
+Done scheduling Anna
+Attendant: Brian has operated 6 flights for a total of 30 hours this week
+Available flights: 2
+Available hours: 30
+Attempting to schedule for 2 stop(s) 28 hours flight...
+This crew member should be replaced
+Done scheduling Brian
+Attendant: Charlene has operated 4 flights for a total of 52.9 hours this week
+Available flights: 4
+Available hours: 7.1
+Attempting to schedule for 0 stop(s) 10 hours flight...
+This crew member should be replaced
+Done scheduling Charlene
+Attendant: Dan has operated 7 flights for a total of 60 hours this week
+Available flights: 1
+Available hours: 0
+Attempting to schedule for 0 stop(s) 3 hours flight...
+This crew member should be replaced
+Done scheduling Dan

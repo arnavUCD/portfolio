@@ -1,0 +1,30 @@
+TaggedAttendant: Thomas has operated 1 flights for a total of 10 hours this week
+Available flights: 7
+Available hours: 50
+Attempting to schedule for 0 stop(s) 8 hours flight...
+This crew member can be scheduled
+Done scheduling Thomas
+TaggedAttendant: Tony has operated 3 flights for a total of 30 hours this week
+Available flights: 5
+Available hours: 30
+Attempting to schedule for 3 stop(s) 30 hours flight...
+This crew member can be scheduled
+Done scheduling Tony
+TaggedAttendant: Tonya has operated 7 flights for a total of 40 hours this week
+Available flights: 1
+Available hours: 20
+Attempting to schedule for 1 stop(s) 10 hours flight...
+This crew member should be replaced
+Done scheduling Tonya
+TaggedAttendant: Taylor has operated 5 flights for a total of 50 hours this week
+Available flights: 3
+Available hours: 10
+Attempting to schedule for 2 stop(s) 21 hours flight...
+This crew member should be replaced
+Done scheduling Taylor
+TaggedAttendant: Teresa has operated 5 flights for a total of 45 hours this week
+Available flights: 3
+Available hours: 15
+Attempting to schedule for 2 stop(s) 20 hours flight...
+This crew member can be scheduled
+Done scheduling Teresa
